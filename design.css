@@ -1,0 +1,268 @@
+body *{
+    display: flex;
+}
+body{
+    background-color: #1a1a1b;
+}
+
+.s1{
+    background-color: #282828;
+}
+.sp1{
+    font-family: klavika;
+    color: white;
+}
+.tb1{
+    border-radius: 50px;
+    background-color: #444444;
+    border-color: transparent;
+    font-size: 15px;
+}
+.b1-1, .b1{
+    color: white;
+    background-color: #424244;
+    border-color: transparent;
+    border-radius: 50px;
+}
+.b1-2{
+    color: white;
+    background-color: #424244;
+    border-color: transparent;
+    border-radius: 50px;
+}
+.b1:hover{
+    background-color: #5c5c5f;
+}
+.b1-1:hover{
+    background-color: #5c5c5f;
+}
+.b1-2:hover{
+    background-color: #5c5c5f;
+}
+.b2{
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+}
+.b2:hover{
+    background-color: #5c5c5f;
+}
+.hr1{
+    background: #46494d;
+    border-color: transparent;
+}
+.m1{
+
+    background-color: #282828;
+}
+.tb2{
+    border-radius: 50px;
+    background-color: #424244;
+    border-color: transparent;
+    font-size: 15px;
+}
+.b3, .b4{
+    background-color: transparent;
+    border-radius: 50%;
+    border-color: transparent;
+}
+.b3{
+    color: #2d86ff;
+}
+.b4{
+    color: green;
+}
+.b3:hover{
+    background-color: #5c5c5f;
+}
+.b4:hover{
+    background-color: #5c5c5f;
+}
+.mc1{
+    background-color: #282828;
+    border-radius: 10px;
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.h3{
+    color: white;
+}
+.b6{
+    background-color: transparent;
+    border-color: transparent;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: #2d86ff;
+}
+.b6:hover{
+    background-color: #5c5c5f;
+}
+.hr3{
+    background: #46494d;
+    border-color: transparent;
+}
+.mc3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t1{
+    color: white;
+}
+.b5{
+    background-color: transparent;
+    border-color: transparent;
+    color: #2d86ff;
+}
+.b5:hover{
+    background-color: #5c5c5f;
+}
+.hr2{
+    background: #46494d;
+    border-color: transparent;
+}
+.hr4{
+    background: #46494d;
+    border-color: transparent;
+}
+.rsb1, .rsb3, .rsb4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.b8{
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: transparent;
+    color: white;
+}
+.b8:hover{
+    background-color: #5c5c5f;
+}
+.rsb2 .h3, .b10{
+    color: white;
+}
+.b9{
+    color: #2d86ff;
+}
+.b9, .b10{
+    background-color: transparent;
+    border-color: transparent;
+}
+.b9:hover{
+    background-color: #5c5c5f;
+}
+.b10:hover{
+    background-color: #5c5c5f;
+}
+.rsb3 .h3{
+    margin-top: 5vh;
+    justify-content: center;
+    align-items: center;
+    margin-left: -1vh;
+}
+.sp2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.b11{
+    border-radius: 10px;
+    border-color: transparent;
+    color: white;
+    background-color: transparent;
+}
+.b11:hover{
+    background-color: #5c5c5f;
+}
+.b12{
+    background-color: transparent;
+    border-color: transparent;
+    color: #2d86ff;
+}
+.b12:hover{
+    background-color: #5c5c5f;
+}
+.mc2{
+    background-color: #282828;
+    border-radius: 10px;
+}
+.woym1{
+    color: #2d86ff;
+    margin: 20px;
+}
+.tb2{
+    border-radius: 50px;
+    background-color: #424244;
+    border-color: transparent;
+    font-size: 15px;
+}
+.b7-1, .b7-2, .b7-3{
+    background-color: #282828;
+    border-color: transparent;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.b7-1{
+    color: #e92848;
+}
+.b7-2{
+    color: #44b961;
+}
+.b7-3{
+    color: #f7b928;
+}
+.b7-1:hover{
+    background-color: #5c5c5f;
+}
+.b7-2:hover{
+    background-color: #5c5c5f;
+}
+.b7-3:hover{
+    background-color: #5c5c5f;
+}
+.b29, .b30{
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    position: relative;
+    transition: all 0.0s;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b29, .b30{
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    position: relative;
+    transition: all 0.0s;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b29::after{
+    content: '';
+    height: 1px;
+    width: 100%;
+    background: white;
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    opacity: 0;
+}
+.b29:hover::after{
+    opacity: 1;
+}
+.b31{
+    background-color: #424244;
+    color: white;
+    border-color: transparent;
+}
+.b31:hover{
+    background-color: #5c5c5f
+}
+.h4{
+    margin-left: 5px;
+    margin-right: 5px;
+}
